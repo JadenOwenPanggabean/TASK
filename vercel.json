@@ -14,7 +14,7 @@
     ],
 
   "env": {
-        "APP_NAME": "Linky",
+        "APP_NAME": "TASK",
         "APP_ENV": "production",
         "APP_KEY": "base64:TU8R+QsrYYKWva9RBM/dNQ3dSaK/d3zQbkUn4SXYCok=",
         "APP_DEBUG": "true",
