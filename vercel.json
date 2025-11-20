@@ -29,9 +29,9 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "mysql",
-        "DB_HOST": "h3h1so.h.filess.io",
+        "DB_HOST": "ivi5zu.h.filess.io",
         "DB_PORT": "3306",
-        "DB_DATABASE": "cafetaria_population",
-        "DB_USERNAME": "cafetaria_population"
+        "DB_DATABASE": "laravel_climbsixgo",
+        "DB_USERNAME": "laravel_climbsixgo"
     }
 }
