@@ -15,7 +15,7 @@
 
   "env": {
         "APP_NAME": "Linky",
-        "APP_ENV": "production",
+        "APP_ENV": "local",
         "APP_KEY": "base64:TU8R+QsrYYKWva9RBM/dNQ3dSaK/d3zQbkUn4SXYCok=",
         "APP_DEBUG": "false",
         "APP_URL": "https://free-ecommerce.vercel.app",
