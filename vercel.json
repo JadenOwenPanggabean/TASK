@@ -15,10 +15,10 @@
 
   "env": {
         "APP_NAME": "Linky",
-        "APP_ENV": "local",
+        "APP_ENV": "production",
         "APP_KEY": "base64:TU8R+QsrYYKWva9RBM/dNQ3dSaK/d3zQbkUn4SXYCok=",
         "APP_DEBUG": "true",
-        "APP_URL": "https://task-swart-two.vercel.app/",
+        "APP_URL": "https://task-swart-two.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
